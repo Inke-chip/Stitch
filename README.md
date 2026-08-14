@@ -130,7 +130,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## 🇷🇺 Русский
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG80MW12cGkwYjQzZTBzdjB6cDc3dXZneHRwcTF4NHJwNnAwdDF4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rnkSmbEKJQ73W/giphy.gif" alt="Кролики" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk3Z29uMGJpM3Z1c2tscmNjenBqOTloczNvZW9iMXBqeW9xbnp1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KHh7jLrG6gIXBTnxsp/giphy.gif" alt="Кролики" width="2000"/>
 </div>
 
 ### 📖 Обзор
