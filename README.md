@@ -99,8 +99,6 @@ go test ./bench -bench=Convergence -benchmem
 
 ### 📊 Benchmarks
 
-> Replace with your own numbers from `go test -bench=. -benchmem`
-
 | Scenario | Concurrent editors | Merge time | Final-state equality |
 |---|---|---|---|
 | Sequential edits | 1 | `TODO` | ✅ |
@@ -200,8 +198,6 @@ go test ./bench -bench=Convergence -benchmem
 
 ### 📊 Бенчмарки
 
-> Замени эти строки своими цифрами из `go test -bench=. -benchmem`
-
 | Сценарий | Конкурентных редакторов | Время merge | Равенство финального состояния |
 |---|---|---|---|
 | Последовательные правки | 1 | `TODO` | ✅ |
@@ -300,8 +296,6 @@ go test ./bench -bench=Convergence -benchmem
 ```
 
 ### 📊 Benchmarks
-
-> Reemplaza estos valores con tus propios resultados de `go test -bench=. -benchmem`
 
 | Escenario | Editores concurrentes | Tiempo de merge | Equivalencia del estado final |
 |---|---|---|---|
