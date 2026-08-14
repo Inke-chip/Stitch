@@ -5,7 +5,7 @@
 **A from-scratch CRDT engine for real-time collaborative text editing, written in Go.**
 *Threads that always find their way back together.*
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb6J4XCrn1G08vnyvh/giphy.gif" alt="Hopping white rabbit" width="320"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3VmbHRiMDlrdGVxMHNjdDRzbXNneXdtYnFleGxveDVhdXF6c2ZqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb6J4XCrn1G08vnyvh/giphy.gif" width="200"/><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3VmbHRiMDlrdGVxMHNjdDRzbXNneXdtYnFleGxveDVhdXF6c2ZqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb6J4XCrn1G08vnyvh/giphy.gif" width="200"/><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3VmbHRiMDlrdGVxMHNjdDRzbXNneXdtYnFleGxveDVhdXF6c2ZqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb6J4XCrn1G08vnyvh/giphy.gif" width="200"/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 ## 🇬🇧 English
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yeLsunxmHkDuLgf3eU/200.gif" alt="Cute white rabbit" width="220"/>
+<img <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmttanByMmpzd2M3dnR3dnFseWF2cGxsNXEzazlicmFiZ3BpZTBwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YqPBdDdjEOlUBURAJS/giphy.gif" alt="Adorable Bunny" width="500"/>
 </div>
 
 ### 📖 Overview
@@ -130,7 +130,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## 🇷🇺 Русский
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG80MW12cGkwYjQzZTBzdjB6cDc3dXZneHRwcTF4NHJwNnAwdDF4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gZx49LyO1CEG7YbcbK/giphy.gif" alt="Милый кролик" width="220"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG80MW12cGkwYjQzZTBzdjB6cDc3dXZneHRwcTF4NHJwNnAwdDF4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rnkSmbEKJQ73W/giphy.gif" alt="Кролики" width="500"/>
 </div>
 
 ### 📖 Обзор
@@ -229,7 +229,7 @@ Issues и Pull Request'ы приветствуются — особенно ци
 ## 🇪🇸 Español
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14kfLy70LdULzq/giphy.gif" alt="Conejo blanco tierno" width="220"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG80MW12cGkwYjQzZTBzdjB6cDc3dXZneHRwcTF4NHJwNnAwdDF4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XmyF99pGjTQKk/giphy.gif" alt="Conejo sentado" width="500"/>
 </div>
 
 ### 📖 Descripción general
